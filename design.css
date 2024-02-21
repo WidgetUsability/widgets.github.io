@@ -13,7 +13,7 @@ body {
   min-height: 850px;
   margin: 0 auto;
   padding: 5px;
-  color: #fADBC9F;
+  color: #ADBC9F;
   display: flex;
 
   border-radius: 10px;
@@ -205,7 +205,7 @@ body {
   padding: 0 20px;
   padding-left: 50px;
   color: #fff;
-  background: linear-gradient(90deg, #ADBC9F, transparent);
+  background: linear-gradient(90deg, #436850, transparent);
   cursor: pointer;
 }
 
